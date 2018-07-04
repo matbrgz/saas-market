@@ -1,0 +1,27 @@
+{
+    "name": "matheusrv/saas-market",
+    "type": "project",
+    "description": "Microservices, Webservice, REST, API and many more!",
+    "keywords": ["saas", "api", "service", "rest"],
+    "homepage": "https://github.com/matheusrv/saas-market",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Rocha Vieira",
+            "email": "matheusrv@email.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/matheusrv/saas-market/issues",
+        "source": "https://github.com/matheusrv/saas-market"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "phpmailer/phpmailer": "~5.2",
+        "gregwar/captcha": "~1.1.6"
+    },
+    "autoload": {
+    	"psr-4": { "": ["app/core/", "app/models/", "app/utility/", "app/controllers/", "app/core/components/"] }
+    }
+}

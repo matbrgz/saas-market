@@ -1,0 +1,96 @@
+26/06/2018 6:28:16 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 123 | PDOException
+SQLSTATE[HY000]: General error: 1364 Field 'product_id' doesn't have a default value
+*******************************************************************
+
+26/06/2018 6:28:39 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 123 | PDOException
+SQLSTATE[HY000]: General error: 1364 Field 'status' doesn't have a default value
+*******************************************************************
+
+26/06/2018 6:30:34 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:30:34 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:02 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:02 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:03 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:03 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:03 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/views/layout/default/navigation.php | 69 | ErrorException
+Undefined variable: orders
+*******************************************************************
+
+26/06/2018 6:34:46 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.content' in 'field list'
+*******************************************************************
+
+26/06/2018 6:39:00 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.content' in 'field list'
+*******************************************************************
+
+26/06/2018 6:39:10 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/core/components/SecurityComponent.php | 210 | Form Tampering
+User: 1 is tampering the form with invalid fields
+*******************************************************************
+
+26/06/2018 6:39:10 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/core/components/SecurityComponent.php | 136 | Exception
+The request has been deined
+*******************************************************************
+
+26/06/2018 6:39:52 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.description' in 'field list'
+*******************************************************************
+
+26/06/2018 6:39:54 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.description' in 'field list'
+*******************************************************************
+
+26/06/2018 6:39:56 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.description' in 'field list'
+*******************************************************************
+
+26/06/2018 6:41:01 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.date' in 'field list'
+*******************************************************************
+
+26/06/2018 6:41:59 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.date' in 'order clause'
+*******************************************************************
+
+26/06/2018 6:42:55 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.date' in 'order clause'
+*******************************************************************
+
+26/06/2018 6:44:17 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.date' in 'order clause'
+*******************************************************************
+
+26/06/2018 6:45:44 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/Database.php | 79 | PDOException
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'orders.date' in 'order clause'
+*******************************************************************
+
+26/06/2018 13:33:50 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/core/Session.php | 60 | SESSION
+current session is invalid
+*******************************************************************
+
+26/06/2018 13:33:53 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/User.php | 33 | Exception
+User ID  doesn't exists
+*******************************************************************
+
+26/06/2018 13:34:04 | /mnt/d/Cloud/OneDrive/Dev/saas-market/app/models/User.php | 33 | Exception
+User ID  doesn't exists
+*******************************************************************
+

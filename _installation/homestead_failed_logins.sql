@@ -1,0 +1,1 @@
+INSERT INTO homestead.failed_logins (id, user_email, last_failed_login, failed_login_attempts) VALUES (1, 'matheusrv@email.com', null, 0);

@@ -1,0 +1,9 @@
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (1, 'files', 0);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (1, 'newsfeed', 0);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (1, 'posts', 0);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (2, 'files', 0);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (2, 'newsfeed', 2);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (2, 'posts', 5);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (3, 'files', 0);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (3, 'newsfeed', 2);
+INSERT INTO homestead.notifications (user_id, target, count) VALUES (3, 'posts', 5);
