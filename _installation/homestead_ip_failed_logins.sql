@@ -1,0 +1,1 @@
+INSERT INTO homestead.ip_failed_logins (ip, user_email) VALUES ('::1', 'matheusrv@email.com');
